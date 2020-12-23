@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Castle.unity
     guid: a021ce02d55a71b45bf63907fdff9b61
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/fps.unity
     guid: 6ad04c5da81ce6949b9152ab477e77bc
+  - enabled: 1
+    path: Assets/Scenes/Room.unity
+    guid: df5583787c0cc354a8b9d079beb33287
   m_configObjects: {}
